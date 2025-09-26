@@ -1,0 +1,35 @@
+*{
+  margin: 0 auto;
+  padding: 0;
+  box-sizing: border-box;
+  align-items: center;
+  font-style: sans-serif;
+}
+
+.container {
+  text-align: center;
+  margin-top: 50px;
+}
+
+h1{
+  margin-bottom: 24px;
+}
+
+.peso {
+  margin-top: 10px;
+}
+
+button {
+  margin-top: 20px;
+  padding: 8px;
+  font-weight: bold;
+  background-color: #000;
+  color: #fff;
+  border-radius: 8px;
+  cursor: pointer;
+  border: none;
+}
+
+.resposta {
+  margin-top: 20px;
+}
