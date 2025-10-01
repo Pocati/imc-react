@@ -1,5 +1,4 @@
 import { useState } from "react";
-import styles from './index.css'
 
 function App() {
   const [altura, setAltura] = useState("");
